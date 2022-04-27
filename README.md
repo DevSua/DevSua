@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 --
 MY STACK
-<img src="https://img.shields.io/badge/{html}-{E34F26}?style={flat}&logo={html}&logoColor={E34F26}"/>
+
+<img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html&logoColor=E34F26"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?
           style=flat		//배지 스타일
