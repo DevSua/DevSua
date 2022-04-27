@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 --
 MY STACK
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 
 출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀]
