@@ -26,8 +26,7 @@ Here are some ideas to get you started:
   <h2>:heart:I Love:heart:</h2>
   💪Exercise , :tv:Movie , :jp: Japanese
   
-  
-  
-  </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSua)](https://github.com/DevSua/github-readme-stats)
+    
+  </div>
