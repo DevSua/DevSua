@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white"/>
   
   <h2>:heart:I Love:heart:</h2>
-  💪exercise , :tv:movie , 
+  💪Exercise , :tv:Movie , :jp:Japanese
   
   
   
