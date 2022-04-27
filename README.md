@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 MY STACK
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-
-출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀]
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?
-          style=flat		//배지 스타일
-          &logo=JS		//로고옆에 텍스트
-          &logoColor=white"/>	//로고 컬러
-          
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=html5&logoColor=white"/>
