@@ -20,7 +20,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>   <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white"/>
 
   
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon AWS-663399?style=flat&logo=Amazon AWS&logoColor=white"/>  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon AWS-663399?style=flat&logo=Amazon AWS&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/clickup-7B68EE?style=flat&logo=clickup&logoColor=white"/>  <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
 
   
   <h2>:heart:I Love:heart:</h2>
